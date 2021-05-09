@@ -1,0 +1,8 @@
+3. Pierwszy commit
+a. Dodaj do folderu plik tekstowy z dowolnym tekstem wewn ˛atrz.
+b. Za pomoc ˛a komendy git status sprawd ´z aktualny status lokalnego repozytorium.
+c. Dodaj ´sledzenie dodanego pliku za pomoc ˛a komendy git add.
+d. Sprawd ´z aktualny status lokalnego repozytorium.
+e. Zapisz stan lokalnego repozytorium za pomoc ˛a komendy git commit -m „wiadomosc”
+f. Przeanalizuj bł ˛ad i uzyj komend w nim zawartych do dodania konta github. ˙
+g. Sprawd ´z status repozytorium
